@@ -1,0 +1,16 @@
+
+.primary-nav{
+  background-color: antiquewhite;
+  padding:12px 16px;
+}
+nav a{
+  margin-right: 12px;
+}
+nav a.active{
+  color: red;
+  font-weight: bold;
+}
+.profile-link{
+  align-self:flex-end
+}
+

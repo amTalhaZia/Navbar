@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.active-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
